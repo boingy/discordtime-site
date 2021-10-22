@@ -1,0 +1,29 @@
+body {
+    background-color: #0e0e10;
+    color: white;
+    font-family: Roboto;
+    margin: 14px;
+}
+
+table {
+    border-collapse: collapse; 
+}
+
+td {
+    padding: 10px 0;     /* 10px top & bottom padding, 0px left & right */
+    border-width: 1px 0; /*  1px top & bottom border,  0px left & right */
+    border-color: #fff;
+    border-style: solid;
+}
+
+.picker-label {
+    margin-bottom: 6px;
+}
+
+.datepicker {
+    margin-bottom: 20px;
+}
+
+.commands {
+    font-size: 14px;
+}
